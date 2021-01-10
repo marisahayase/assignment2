@@ -1,0 +1,45 @@
+@font-face {
+    font-family: "dosis";
+    src: url("fonts/dosisregular.ttf") format("truetype");
+}
+         
+body {
+ padding: 2rem;
+ font-family: "dosis";
+}
+
+.centerContainer {
+    margin-left: 9em;
+    margin-right: auto;
+
+}
+
+.stepContainer {
+    margin-left: 13rem;
+    margin-right: auto;
+    width: 20em;
+}
+
+.steptwoContainer {
+    margin-left: 13rem;
+    margin-right: auto;
+    width: 20em;
+}
+
+.stepthreeContainer {
+    margin-left: 13rem;
+    margin-right: auto;
+    width: 23em;
+}
+
+.stepfourContainer {
+    margin-left: 13rem;
+    margin-right: auto;
+    width: 23em;
+}
+
+.stepfiveContainer {
+    margin-left: 14rem;
+    margin-right: auto;
+    width: 23em;
+}
